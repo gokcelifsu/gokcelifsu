@@ -18,8 +18,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Gökçe's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gokcelifsu&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokcelifsu&layout=compact&theme=radial)
+![Gökçe's GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=gokcelifsu&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gokcelifsu&layout=compact&theme=radial)
 
 ---
 
